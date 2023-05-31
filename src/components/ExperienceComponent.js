@@ -61,8 +61,9 @@ const ExperienceComponent = () => {
                                 <p class="mt-2 text-sm leading-normal">
                                     Worked on the web application project{" "}
                                     <em>
-                                        "Social Media Clone application" &
-                                        "Salon Chain Management application".
+                                        &quot;Social Media Clone
+                                        application&quot; & &quot;Salon Chain
+                                        Management application&quot;.
                                     </em>
                                 </p>
                                 {/* <ul

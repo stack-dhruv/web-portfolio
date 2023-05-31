@@ -67,7 +67,8 @@ const ProjectsComponent = () => {
                                     </a>
                                 </h3>
                                 <p class="mt-2 text-sm leading-normal">
-                                    A project I've created during my internship.
+                                    A project I&apos;ve created during my
+                                    internship.
                                 </p>
                             </div>
                             {/* <img
