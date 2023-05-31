@@ -14,58 +14,56 @@ const AboutComponent = () => {
             </div>
             <div>
                 <p className="mb-4">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
-                    auctor sem eu lacus faucibus, quis viverra massa bibendum.
-                    Proin ac odio id lectus luctus pulvinar. In finibus eleifend
-                    erat, sed consectetur tellus ullamcorper nec. Duis convallis
-                    finibus ligula ut lobortis. Nunc nec pulvinar lectus.
-                    Maecenas commodo lorem ut interdum euismod. Aliquam sit amet
-                    metus nulla. Fusce a nisi quis elit dignissim tempor.
-                    Suspendisse scelerisque tincidunt risus, id cursus odio
-                    suscipit non. Sed convallis, justo vel luctus vestibulum,
-                    erat mauris dignissim neque, a ultricies turpis eros sed
-                    neque. Nulla facilisi. Donec ut mauris ac ipsum pulvinar
-                    tempor. Curabitur quis mauris sit amet enim bibendum iaculis
-                    vitae sed libero. Sed feugiat ipsum vel metus pretium, id
-                    congue lectus finibus. Praesent mattis, neque ac rhoncus
-                    viverra, augue diam tempus odio, id faucibus lectus arcu nec
-                    erat."
+                    Hi there, I’m{" "}
+                    <span className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300">
+                        Dhruvkumar Patel
+                    </span>
+                    , a final year student of{" "}
+                    <span className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300">
+                        Information Technology
+                    </span>{" "}
+                    at LDRP ITR, Gandhinagar. I’m from a small town in Gujarat,
+                    but I have big dreams of becoming a{" "}
+                    <span className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300">
+                        software development engineer
+                    </span>
+                    .
                 </p>
                 <p className="mb-4">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
-                    auctor sem eu lacus faucibus, quis viverra massa bibendum.
-                    Proin ac odio id lectus luctus pulvinar. In finibus eleifend
-                    erat, sed consectetur tellus ullamcorper nec. Duis convallis
-                    finibus ligula ut lobortis. Nunc nec pulvinar lectus.
-                    Maecenas commodo lorem ut interdum euismod. Aliquam sit amet
-                    metus nulla. Fusce a nisi quis elit dignissim tempor.
-                    Suspendisse scelerisque tincidunt risus, id cursus odio
-                    suscipit non. Sed convallis, justo vel luctus vestibulum,
-                    erat mauris dignissim neque, a ultricies turpis eros sed
-                    neque. Nulla facilisi. Donec ut mauris ac ipsum pulvinar
-                    tempor. Curabitur quis mauris sit amet enim bibendum iaculis
-                    vitae sed libero. Sed feugiat ipsum vel metus pretium, id
-                    congue lectus finibus. Praesent mattis, neque ac rhoncus
-                    viverra, augue diam tempus odio, id faucibus lectus arcu nec
-                    erat."
+                    I love coding and learning new technologies, especially{" "}
+                    <span className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300">
+                        web development
+                    </span>{" "}
+                    and{" "}
+                    <span className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300">
+                        data science
+                    </span>
+                    . I have experience in building web applications using the{" "}
+                    <span className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300">
+                        MERN stack
+                    </span>{" "}
+                    (MongoDB, Express, React and Node), as well as working with
+                    SQL databases.
                 </p>
                 <p className="mb-4">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
-                    auctor sem eu lacus faucibus, quis viverra massa bibendum.
-                    Proin ac odio id lectus luctus pulvinar. In finibus eleifend
-                    erat, sed consectetur tellus ullamcorper nec. Duis convallis
-                    finibus ligula ut lobortis. Nunc nec pulvinar lectus.
-                    Maecenas commodo lorem ut interdum euismod. Aliquam sit amet
-                    metus nulla. Fusce a nisi quis elit dignissim tempor.
-                    Suspendisse scelerisque tincidunt risus, id cursus odio
-                    suscipit non. Sed convallis, justo vel luctus vestibulum,
-                    erat mauris dignissim neque, a ultricies turpis eros sed
-                    neque. Nulla facilisi. Donec ut mauris ac ipsum pulvinar
-                    tempor. Curabitur quis mauris sit amet enim bibendum iaculis
-                    vitae sed libero. Sed feugiat ipsum vel metus pretium, id
-                    congue lectus finibus. Praesent mattis, neque ac rhoncus
-                    viverra, augue diam tempus odio, id faucibus lectus arcu nec
-                    erat."
+                    I’m also exploring the fascinating world of{" "}
+                    <span className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300">
+                        artificial intelligence
+                    </span>
+                    ,{" "}
+                    <span className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300">
+                        machine learning
+                    </span>{" "}
+                    and{" "}
+                    <span className="font-medium text-slate-200 hover:text-teal-300 focus-visible:text-teal-300">
+                        data analysis
+                    </span>
+                    . I believe in using the best and latest tools to create
+                    innovative and impactful solutions.
+                </p>
+                <p className="mb-4">
+                    With each project, I aim to challenge myself and contribute
+                    to the development community.
                 </p>
             </div>
         </div>

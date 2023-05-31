@@ -9,8 +9,8 @@ import React, { useEffect } from "react";
 export default function Home() {
     // pointer background modifier
     const handleMouseMove = (event) => {
-        const mouseX = event.clientX;
-        const mouseY = event.clientY;
+        const mouseX = event.pageX;
+        const mouseY = event.pageY;
 
         var radialBackground = `radial-gradient(600px at ${mouseX}px ${mouseY}px,rgba(29, 78, 216, 0.15),transparent 80%)`;
 
