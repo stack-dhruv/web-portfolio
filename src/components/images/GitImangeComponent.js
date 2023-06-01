@@ -4,7 +4,7 @@ const GitImangeComponent = () => {
     return (
         <div className="grid place-content-center">
             <img
-                src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
+                src="/git-icon.png"
                 className="w-16 h-16 p-2 bg-slate-700 rounded-md"
             />
         </div>
