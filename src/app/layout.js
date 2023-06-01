@@ -4,15 +4,19 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-    title: "Dhruvkumar's Personal Site",
-    description: "Personal Website of Dhruvkumar Rakeshbhai Patel.",
+    title: "Portfolio of Dhruvkumar Patel",
+    description:
+        "Dhruvkumar Patel is a final year IT engineer with a passion for using technology to solve real-world problems. His website portfolio showcases his skills in web development, software development, and data science. Visit his website today to learn more about his work!",
 };
 
 export default function RootLayout({ children }) {
     return (
         <html lang="en">
             <head>
-                <meta property="og:title" content="Dhruvkumar's Portfolio" />
+                <meta
+                    property="og:title"
+                    content="Portfolio of Dhruvkumar Patel"
+                />
                 <meta property="og:site_name" content="stack-dhruv" />
                 <meta property="og:url" content="stack-dhruv.tech" />
                 <meta
